@@ -1,0 +1,3 @@
+Welcome to IOStream. Reading from the file 
+I am Swapnith I Love Shreya Bangaram.
+Created By Swapnith
